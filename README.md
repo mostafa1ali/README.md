@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓 AI Student at Zagazig University, Faculty of Computers and Information  
+- 🎓 AI Student at Zagazig University, Faculty of Computers and Informatics  
 - 💻 Passionate about AI, Web Development, and Open Source  
 - 🔭 Currently working on full-stack web apps and ML projects  
 - 📫 Reach me at: **mostafaalim249@gmail.com**  
