@@ -1,38 +1,81 @@
-<h1 align="center">Hi 👋, I'm Mostafa Ali</h1>
-<h3 align="center">AI Engineer</h3>
+<h1 align="center">Hey 👋, I'm Mostafa Ali</h1>
+<h3 align="center">AI Student | Full-Stack Developer | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa1ali&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa1ali" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa1ali" alt="mostafa1ali" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mostafa4414730" target="blank"><img src="https://img.shields.io/twitter/follow/mostafa4414730?logo=twitter&style=for-the-badge" alt="mostafa4414730" /></a> </p>
-
-- 📫 How to reach me **mostafaalim249@gmail.com**
-
-- ⚡ Fun fact **📊 Data makes sense to me… but humans? Still learning that part**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mostafa4414730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafa4414730" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mostafa ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa ali" height="30" width="40" /></a>
-<a href="https://kaggle.com/mostafa ali26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mostafa ali26" height="30" width="40" /></a>
-<a href="https://fb.com/mostafa ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa ali" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mostafaalim249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mostafaalim249" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/eng.sasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eng.sasa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mostafa_ali111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mostafa_ali111" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mostafa1ali&label=Profile%20views&color=ff69b4&style=flat-square" alt="mostafa1ali" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
+### 🧠 About Me
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mostafa_ali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mostafa_ali" /></a></p><br><br>
+- 🎓 AI Student at Zagazig University, Faculty of Computers and Information  
+- 💻 Passionate about AI, Web Development, and Open Source  
+- 🔭 Currently working on full-stack web apps and ML projects  
+- 📫 Reach me at: **mostafaalim249@gmail.com**  
+- ⚡ Fun fact: `Data makes sense to me… but humans? Still working on it.`
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa1ali&show_icons=true&locale=en&layout=compact" alt="mostafa1ali" /></p>
+### 🌐 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa1ali&show_icons=true&locale=en" alt="mostafa1ali" /></p>
+<p align="left">
+  <a href="https://linkedin.com/in/mostafa-ali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/mostafa4414730" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/mostafaalim249" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/eng.sasa" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=flat-square&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.leetcode.com/mostafa_ali111" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://kaggle.com/mostafaali26" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa1ali&" alt="mostafa1ali" /></p>
+---
 
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,cpp,mysql,sqlite,linux,git,github,vscode,opencv,pytorch,sklearn,pandas,seaborn" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mostafa1ali&theme=darkhub&margin-w=15&no-bg=true" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa1ali&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mostafa1ali&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa1ali&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p>
+  <a href="https://www.buymeacoffee.com/mostafa_ali" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+<br/>
